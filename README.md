@@ -9,7 +9,8 @@ Requirements
 `Python 3.x`
 `pandas library`
 `tkinter library`
-Installation
+
+## Installation
 Ensure you have Python 3.x installed on your system.
 Install the required libraries by running the following command in your terminal or command prompt:
 ````
